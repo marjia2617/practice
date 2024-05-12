@@ -1,4 +1,4 @@
- @import  "{{ site.theme}}";
+  theme: jekyll-theme-minimal
     <head>
         <title>City</title>
     </head>
