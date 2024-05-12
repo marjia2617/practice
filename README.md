@@ -1,4 +1,4 @@
-  theme: jekyll-theme-minimal
+  theme: jekyll-theme-cayman
     <head>
         <title>City</title>
     </head>
