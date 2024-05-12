@@ -1,4 +1,4 @@
-  theme: jekyll-theme-cayman
+
     <head>
         <title>City</title>
     </head>
