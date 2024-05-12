@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one<html>
+ @import  "{{ site.theme}}";
     <head>
         <title>City</title>
     </head>
